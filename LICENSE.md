@@ -34,7 +34,7 @@ exhaustive, and do not form part of our licenses.
      licensed material, or material used under an exception or
      limitation to copyright. More considerations for licensors:
 	wiki.creativecommons.org/Considerations_for_licensors
-
+ 
      Considerations for the public: By using one of our public
      licenses, a licensor grants the public permission to use the
      licensed material under specified terms and conditions. If
